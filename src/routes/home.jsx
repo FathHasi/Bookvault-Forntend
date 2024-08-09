@@ -19,7 +19,13 @@ function Home(props) {
             title:"Pathummayude aadu",
             author:"basheer",
             image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpdcNvSbSsaaxEKBZR6-P7jV2vVIyp6WIU_jjz6db7yoB-EV6UhXX7o3I417z0ty7qEJw&usqp=CAU"
+        },{
+            Id:4,
+            title:"Indhulekha",
+            author:"O Chandhumenon",
+            image:"https://cdn.exoticindia.com/images/products/original/books-2019-022/uau900.webp"
         }
+
     ])
     return(
         <main>

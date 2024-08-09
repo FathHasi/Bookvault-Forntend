@@ -8,7 +8,7 @@ function Root(props) {
     return(
         <>
         <Header />
-        <Outlet />
+        <Outlet  />
         <Footer />
         </>
     );
