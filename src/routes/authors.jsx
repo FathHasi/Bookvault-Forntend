@@ -18,9 +18,33 @@ const authors = [
         image: "https://fl-i.thgim.com/public/magazine/vzk9sj/article30178806.ece/alternates/FREE_1200/20100115270116801jpg" 
     },
     { 
-        Id: 1, 
+        Id: 4, 
         name: "O. Chandu Menon", 
         image: "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Chandu_Menon.jpg/220px-Chandu_Menon.jpg" 
+    },{
+        Id:5,
+        name:"Akhil p dharmajan",
+        image:"https://www.mathrubhumi.com/image/contentid/policy:1.9434809:1711334104/akhil%20p%20dharmajan%20(1).jpg?$p=608d25a&f=1x1&w=1080&q=0.8"
+    },{
+        Id:6,
+        name:"M.T Vasudevan Nair",
+        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYumOm00zmuMdifc_Ywrqe98Bjk5tPJy_2Q&s"
+    },{
+        Id:7,
+        name:"Subhash chandran",
+        image:"https://upload.wikimedia.org/wikipedia/commons/e/e9/Novelist_Subhash_Chandran_from_Kerala%2C_India.jpg"
+    },{
+        Id:8,
+        name:"Kamala surryya",
+        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw_fWiTqIVTdpiilis_MPnMp4zClHVWv7Kyg&s"
+    },{
+        Id:9,
+        name:"Perumbadavam sreedharan",
+        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnx9pq_5s9hWlXNOTVP-Sp6O1CWoNV3lnliw&s"
+    },{
+        Id:10,
+        name:"Thakazhi sivasankara pillai",
+        image:"https://upload.wikimedia.org/wikipedia/commons/d/dc/Thakazhi_1.jpg"
     }
 ];
 

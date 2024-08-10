@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 function Header() {
     return (
-        <header className="h-20 shadow-xl">
+        <header className="h-20 shadow-xl bg-teal-50">
             <div className="mx-auto container flex flex-row justify-between items-center h-full">
                 <h1 className="text-2xl font-bold">Book Vaults</h1>
                 <nav>
