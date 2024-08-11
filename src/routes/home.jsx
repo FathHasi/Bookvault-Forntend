@@ -71,7 +71,7 @@ function Home(props) {
                 <h2 className="text-2xl font-bold">Recommended Books and Authors</h2>
                 <div className="grid grid-cols-2 gap-4 md:grid-cols-5 mt-10">
                     {books.map(book => (
-                        <BookCard key={book.id} book={book} />
+                        <BookCard key={book.Id} book={book} />
                     ))}
                 </div>
             </section>
